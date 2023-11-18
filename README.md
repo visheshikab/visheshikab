@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate with other folks with a background in development econ + interest in data science
 - 🤔 I’m looking to volunteer with non-governmental organisations that require data infrastructure support
 - 💬 My main areas of interest are social networks, governance of commons and human development
-- 📫 How to reach me: Email me at visheshikab@gmail.com
+- 📫 Reach me at visheshikab@gmail.com
