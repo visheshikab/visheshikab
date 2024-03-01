@@ -6,4 +6,4 @@
 - 🌱 I write what I learn here: https://medium.com/@visheshikab
 
 I worked on an application using Streamlit: 
-![A sneak peak](final_gif1.gif)
+![A sneak peak](final_gif1_small.gif)
