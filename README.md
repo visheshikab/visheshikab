@@ -5,5 +5,10 @@
 - 📫 Reach me at visheshika.baheti@gmail.com
 - 🌱 I write what I learn here: https://medium.com/@visheshikab
 
-I worked on an application using Streamlit: 
+- ---------------------------------------------------------------------------------------
+Project 1: Indian Parliament Debates since 1952
+Indian Parliament Debates since 1952
+(I scrape 5,000 documents of parliament debate minutes to see meaningful patterns and evolution in India's governance.)
+
+A sneak peak:
 ![A sneak peak](final_gif1_small.gif)
