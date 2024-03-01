@@ -11,4 +11,5 @@ Indian Parliament Debates since 1952
 (I scrape 5,000 documents of parliament debate minutes to see meaningful patterns and evolution in India's governance.)
 
 A sneak peak:
+
 ![A sneak peak](final_gif1_small.gif)
