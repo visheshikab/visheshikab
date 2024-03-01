@@ -6,7 +6,7 @@
 - 🌱 I write what I learn here: https://medium.com/@visheshikab
 
 - ---------------------------------------------------------------------------------------
-Project 1: Indian Parliament Debates since 1952 - I scrape 5,000 documents of parliament debate minutes to see meaningful patterns and evolution in India's governance.
+Project 1: Indian Parliament Debates since 1952 - I scrape 5,000 documents of parliament debate minutes to see the evolution in India's governance discourse.
 
 A sneak peak:
 
