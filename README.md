@@ -14,9 +14,7 @@ A sneak peak:
 
 Libraries used: pandas, BeautifulSoup, fitz, nltk, numpy, matplotlib, gensim, wordcloud 
 
-Project 2: Twitter(X) Sentiment Analysis - I analyze tweets as positive or negative based using the Bernoulli Naive Bayes Classification technique. 
-
-The algorithm for sentiment analysis of tweets classifies each tweet as either 'positive' or 'negative' by calculating the conditional probability of each word appearing in either sentiment category.
+Project 2: Twitter(X) Sentiment Analysis - I analyze tweets as positive or negative based using the Bernoulli Naive Bayes Classification technique. The algorithm for sentiment analysis of tweets classifies each tweet as either 'positive' or 'negative' by calculating the conditional probability of each word appearing in either sentiment category.
 
 Broad idea:
 
