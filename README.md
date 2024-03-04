@@ -6,10 +6,12 @@
 - 🌱 I write what I learn here: https://medium.com/@visheshikab
 
 - ---------------------------------------------------------------------------------------
-Project 1: Indian Parliament Debates since 1952 - I scrape 5,000 documents of parliament debate minutes to see the evolution in India's governance discourse using Topic Modelling, a Natural Language Processing technique. You can check the application here: https://indianparliamentdebates.streamlit.app/
+Project 1: Indian Parliament Debates since 1952 - I scrape more than 5,000 documents of parliament debate minutes to see the evolution in India's governance discourse using Topic Modelling, a Natural Language Processing technique. You can check the application here: https://indianparliamentdebates.streamlit.app/
 
 A sneak peak:
 
 ![A sneak peak](final_gif1_small.gif)
 
 Libraries used: pandas, BeautifulSoup, fitz, nltk, numpy, matplotlib, gensim, wordcloud 
+
+Project 2: Twitter Sentiment Analysis - I analyze tweets as positive or negative based using the Bernoulli Naive Bayes Classification technique. 
