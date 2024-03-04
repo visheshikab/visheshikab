@@ -18,4 +18,6 @@ Project 2: Twitter(X) Sentiment Analysis - I analyze tweets as positive or negat
 
 The algorithm for sentiment analysis of tweets classifies each tweet as either 'positive' or 'negative' by calculating the conditional probability of each word appearing in either sentiment category.
 
+Broad idea:
+
 ![Broad idea](screenshot2.png)
