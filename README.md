@@ -11,3 +11,5 @@ Project 1: Indian Parliament Debates since 1952 - I scrape 5,000 documents of pa
 A sneak peak:
 
 ![A sneak peak](final_gif1_small.gif)
+
+Libraries used: pandas, BeautifulSoup, fitz, nltk, numpy, matplotlib, gensim, wordcloud 
