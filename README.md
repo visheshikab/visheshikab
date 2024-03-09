@@ -6,7 +6,7 @@
 - 🌱 I write what I learn here: https://medium.com/@visheshikab
 
 - ---------------------------------------------------------------------------------------
-Project 1: Indian Parliament Debates since 1952 - I scrape more than 5,000 documents of parliament debate minutes to see the evolution in India's governance discourse using Topic Modelling, a Natural Language Processing technique. You can check the application here: https://indianparliamentdebates.streamlit.app/
+Project 1: Indian Parliament Debates since 1952 - I scrape 5,000 records of Indian parliament debate minutes to see the evolution in governance discourse using Topic Modelling, a Natural Language Processing technique. You can check the application here: https://indianparliamentdebates.streamlit.app/
 
 A sneak peak:
 
